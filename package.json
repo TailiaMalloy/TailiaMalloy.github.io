@@ -1,7 +1,7 @@
 {
   "name": "academic-pages",
   "version": "0.8.1.1",
-  "description": "Tyler Malloy",
+  "description": "Tailia Malloy",
   "repository": {
     "type": "git",
     "url": "https://github.com/academicpages/academicpages.github.io"
@@ -14,7 +14,7 @@
   "contributors": [
     "Michael Rose",
     "Robert Zupko",
-    "Tyler Malloy"
+    "Tailia Malloy"
   ],
   "license": "MIT",
   "bugs": {

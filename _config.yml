@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ty Malloy"
+title                    : "Tailia Malloy"
 title_separator          : "-"
-name                     : &name "Ty Malloy"
+name                     : &name "Tailia Malloy"
 description              : &description "Human and Machine Learning Researcher"
 url                      : "https://www.tailiamalloy.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TylerJamesMalloy/tylerjamesmalloy.github.io"
+repository               : "TailiaMalloy/TailiaMalloy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   location         : "Pittsburgh"
   employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "tylerjmalloy@cmu.edu" 
+  email            : "tailiamalloy@gmail.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,13 +37,13 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2512-984X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Tyler-Malloy"
+  researchgate     : "https://www.researchgate.net/profile/Tailia-Malloy"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "TylerJamesMalloy"
+  github           : "TailiaMalloy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
